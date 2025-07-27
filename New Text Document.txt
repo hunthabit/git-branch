@@ -1,0 +1,1 @@
+I want to know how git aware about the my new branch.
